@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fb7a2c8.css",
+    "main.js": "/static/js/main.f22d4600.js",
+    "static/media/default.gif": "/static/media/default.c7488e7a7a74eff31f0c.gif",
+    "static/media/jpg": "/static/media/67802852afc2e64690e2269e.63b9797df5deff1164fb.jpg",
+    "static/media/png": "/static/media/6797e9fd3e617405a3a33e8c.ae461473c5632b3a98c9.png",
+    "static/media/logo.png": "/static/media/logo.04235dd01046342f5c72.png",
+    "static/media/logo2.png": "/static/media/logo2.7ddd978c9e46ca769ead.png",
+    "static/media/logo.svg": "/static/media/logo.2cc7e41b4e104d8dec23.svg",
+    "static/media/jpeg": "/static/media/677ee7c078c296db28996b06.abb502b1b69589cd42e4.jpeg",
+    "static/media/google_gmail.png": "/static/media/google_gmail.3b44a32b77f4074c1956.png",
+    "static/media/linkedin.png": "/static/media/linkedin.69a3a5c0679624687b55.png",
+    "static/media/facebook.png": "/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/deliveryBanner.svg": "/static/media/deliveryBanner.63684b9758713921f8b7.svg",
+    "static/media/deliveredBanner.svg": "/static/media/deliveredBanner.5295b552bb8b990151a2.svg",
+    "static/media/orderBanner.svg": "/static/media/orderBanner.ea84bef5c20f6224a8c5.svg",
+    "static/media/cookingBanner.svg": "/static/media/cookingBanner.5d579adc2f5baf3ef554.svg",
+    "index.html": "/index.html",
+    "main.8fb7a2c8.css.map": "/static/css/main.8fb7a2c8.css.map",
+    "main.f22d4600.js.map": "/static/js/main.f22d4600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fb7a2c8.css",
+    "static/js/main.f22d4600.js"
+  ]
+}
